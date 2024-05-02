@@ -1,4 +1,3 @@
-# bookbot
-boots.dev bookbot repo
+# BookBot [boots.dev]
 --
-Bookbot is my first git project!
+**Bookbot is my first git project!**
